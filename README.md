@@ -1,3 +1,3 @@
 # Technology-Information-System
-* INDUSTRY TALK POSTER
-* [POSTER](https://github.com/AdibZikrii/Technology-Information-System/files/13804960/INDUSTRY.TALK.poster.pdf)
+* INDUSTRY TALK POSTER [INDUSTRY TALK poster.pdf](https://github.com/AdibZikrii/Technology-Information-System/files/13804967/INDUSTRY.TALK.poster.pdf)
+
